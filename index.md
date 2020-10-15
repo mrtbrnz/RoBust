@@ -1,4 +1,4 @@
-## Interested in these vechicles ?
+## Interested in these vehicles ?
 
 <!-- ![Image](files/images/vehicles.png) -->
 
