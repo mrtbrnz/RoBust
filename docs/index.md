@@ -16,7 +16,7 @@ A Novel Robust Hexarotor Capable of Static Hovering in Presence of Propeller Fai
 
 ### and download the STL files and build your own !
 
-Info coming soon...
+[Star-Shaped](https://github.com/mrtbrnz/RoBust/tree/main/hardware/STL_files/star-shaped) and [Y-Shaped](https://github.com/mrtbrnz/RoBust/tree/main/hardware/STL_files/y-shaped)
 
 <!-- 
 ```markdown
